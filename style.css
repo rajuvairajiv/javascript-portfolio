@@ -99,7 +99,7 @@ p {
     display: flex;
     align-items: center;
     padding: 0, 2rem;
-    background: linear-gradient(135deg, rgba(79, 70, 299, 0.9)0%, rgba(124, 58, 237, 0.85)100%),
+    background-image: linear-gradient(135deg, rgba(79, 70, 299, 0.9)0%, rgba(124, 58, 237, 0.85)100%),
         url('coding.jpeg');
     background-size: cover;
     background-position: center;
